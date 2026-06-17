@@ -95,6 +95,8 @@ body {
     font-weight: 600;
     color: var(--white);
     cursor: pointer;
+    text-align: center;
+    text-decoration: none;
 }
 
 .link:active {
